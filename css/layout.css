@@ -327,38 +327,38 @@ ul#nav li.current a { color: #F06000; }
 
 .apache_spark {
   	width: 80%;
-  	-moz-animation: photoshop 2s ease;
+  	-moz-animation: photoshop 3s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .python {
   	width: 60%;
-  	-moz-animation: illustrator 2s ease;
+  	-moz-animation: illustrator 3s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .R {
   	width: 80%;
-  	-moz-animation: wordpress 2s ease;
+  	-moz-animation: wordpress 3s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .HDFS {
   	width: 90%;
-  	-moz-animation: css 2s ease;
+  	-moz-animation: css 3s ease;
   	-webkit-animation: css 2s ease;
 }
 .sqoop {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
+  	-moz-animation: html5 3s ease;
   	-webkit-animation: html5 2s ease;
 }
 .hive {
   	width: 70%;
-  	-moz-animation: jquery 2s ease;
+  	-moz-animation: jquery 3s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
 .sql {
   	width: 60%;
-  	-moz-animation: jquery 2s ease;
+  	-moz-animation: jquery 3s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
