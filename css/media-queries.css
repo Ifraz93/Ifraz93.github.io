@@ -51,7 +51,7 @@
    ------------------------------------------------------------------- */
    #about .profile-pic {
       width: 200px;
-      height: 114px;
+      height: auto;
       margin-left: 12px;
       object-fit: cover;
    }
@@ -218,7 +218,7 @@
    -------------------------------------------------------------------- */
    #about .profile-pic { display: none; }
    #about .download .button {
-      width: 100%;
+      width: 200%;
       text-align: center;
       padding: 15px 20px;
    }
